@@ -1,7 +1,7 @@
 <?php
 
     if(isset($_POST['btnLogin'])){
-        header("Location:dashboard.php");
+        header("Location:dashboard.html");
   exit;
     }
 
